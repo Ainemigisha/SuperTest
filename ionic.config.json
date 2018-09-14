@@ -1,0 +1,8 @@
+{
+  "name": "SuperTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "e25f2e14"
+}
